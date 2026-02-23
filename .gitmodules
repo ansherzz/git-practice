@@ -1,0 +1,3 @@
+[submodule "ofbiz-training"]
+	path = ofbiz-training
+	url = git@github.com:ansherzz/ofbiz-training.git
